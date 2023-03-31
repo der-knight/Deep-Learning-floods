@@ -1,7 +1,7 @@
 # Deep-Learning-floods
 
 # Creating an environment to run this tool    
-We do not provide a dependency file but steps to create an environment to run our tool.
+We do not provide a dependency file but steps to create an environment to run our tool.  
 Create a new environment named tf_gpu and install tensorflow with gpu    
 ````conda create --name tf_gpu tensorflow-gpu   ````  
 Activate environment  
