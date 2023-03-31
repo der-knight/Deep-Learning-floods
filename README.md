@@ -3,7 +3,7 @@
 # Creating an environment to run this tool    
 We do not provide a dependency file but steps to create an environment to run our tool. 
 clone this repository 
-```` git clone https://github.com/der-knight/Deep-Learning-floods.git````
+```` git clone https://github.com/der-knight/Deep-Learning-floods.git````  
 Create a new environment named tf_gpu and install tensorflow with gpu    
 ````conda create --name tf_gpu tensorflow-gpu   ````  
 Activate environment  
