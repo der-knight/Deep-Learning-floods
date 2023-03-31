@@ -1,5 +1,5 @@
 # Deep-Learning-floods
-
+![image](https://github.com/der-knight/Deep-Learning-floods/blob/main/Images/Methodology%20flood.jpg)
 # Creating an environment to run this tool    
 We do not provide a dependency file but steps to create an environment to run our tool.  
 Create a new environment named tf_gpu and install tensorflow with gpu    
